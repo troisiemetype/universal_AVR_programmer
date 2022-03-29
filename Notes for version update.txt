@@ -1,0 +1,2 @@
+Power the uC ! i.e. tie uC vcc, vusb and avcc to vcc.
+Add the posibility to upload or download to 5V or 3.3V boards.
